@@ -3,6 +3,5 @@
 
 int main() {
   printf("Hello, git user!\n");
-  printf("");
   return 1;
 }
